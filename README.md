@@ -1,7 +1,8 @@
-# @roarc0 👋
+<h1 align="center">Hi, I'm Alessandro</h1>
+<h3 align="center">A passionate backend developer from Italy</h3>
 
-<p align="center">
-  <a href="https://github.com/roarc0"><img src="https://img.shields.io/github/followers/roarc0.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/roarc0"><img src="https://img.shields.io/twitter/follow/roarc0?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/alessandro-rosetti"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alessandro-rosetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-rosetti" height="30" width="40" /></a>
+<a href="https://instagram.com/roarc0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roarc0" height="30" width="40" /></a>
 </p>
