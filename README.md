@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Alessandro</h1>
-<h3 align="center">A passionate backend developer from Italy</h3>
+<h3 align="center">A passionate full-stack developer from Italy</h3>
+
+<p align="center">🛠️ <strong>Currently working on:</strong> development of scalable, efficient applications at <strong>CWire</strong>, with a strong focus on <strong>Golang</strong> for backend systems and <strong>Svelte</strong> for simple and powerful frontends. Optimizing performance ensuring clean, maintainable reliable code.</p>
+
+<p align="center">📚 <strong>Always learning:</strong> expanding my knowledge by exploring new technologies and best practices to enhance my skills.</p>
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roarc0&show_icons=true&locale=en&layout=compact" alt="roarc0" /></p>
