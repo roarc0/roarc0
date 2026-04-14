@@ -24,10 +24,6 @@ I care about performance, simplicity, and writing code that holds up in producti
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roarc0&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=2F80ED" />
-</p>
-
-<p align="center">
 <a href="https://linkedin.com/in/alessandro-rosetti" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
