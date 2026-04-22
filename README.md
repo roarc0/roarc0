@@ -30,4 +30,18 @@ I care about performance, simplicity, and writing code that holds up in producti
 <a href="https://instagram.com/roarc0" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@roarc0-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
+<h2 align="left">Support Me 💜</h2>
 </p>
+
+###
+
+<p align="left">
+  If you enjoy my work on openmm and want to support what I do, consider buying me a coffee!
+</p >
+<p align= "center">
+  <a href="https://buymeacoffee.com/roarc" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
+  </a>
+</p>
+
+###
